@@ -39,8 +39,8 @@ Last result: **3** seats (General Election of 20 October 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [1 December 2017–31 May 2018](2018-05-31-TNS.html) | TNS <br> Luxemburger Wort and RTL | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
-| [1 December 2017](2017-12-01-TNS.html) | TNS <br> Luxemburger Wort and RTL | 5 | 3–5 | 3–5 | 3–6 | 2–6 |
-| [9–19 October 2017](2017-10-19-Ifop.html) | Ifop <br> Tageblatt | 4 | 3–5 | 2–5 | 2–6 | 2–7 |
+| [1 December 2017](2017-12-01-TNS.html) | TNS <br> Luxemburger Wort and RTL | 5 | 3–5 | 3–5 | 3–5 | 2–6 |
+| [9–19 October 2017](2017-10-19-Ifop.html) | Ifop <br> Tageblatt | 4 | 2–5 | 2–6 | 2–6 | 2–7 |
 
 ### Probability Mass Function
 
