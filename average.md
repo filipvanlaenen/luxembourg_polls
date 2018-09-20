@@ -256,6 +256,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Chrëschtlech-Sozial Vollekspartei – Demokratesch Partei | 36 | 40 | 100% | 39–41 | 39–41 | 39–41 | 38–42 |
 | Chrëschtlech-Sozial Vollekspartei – Lëtzebuerger Sozialistesch Aarbechterpartei | 36 | 37 | 100% | 36–38 | 36–38 | 35–38 | 35–39 |
+| Chrëschtlech-Sozial Vollekspartei | 23 | 29 | 2% | 28–30 | 28–30 | 28–30 | 27–31 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei – Demokratesch Partei – déi gréng | 32 | 26 | 0% | 24–26 | 24–27 | 24–27 | 24–27 |
 
 ### Chrëschtlech-Sozial Vollekspartei – Demokratesch Partei
@@ -287,6 +288,23 @@ Only polls for which at least the sample size has been published are included in
 | 39 | 1.0% | 1.1% |  |
 | 40 | 0.1% | 0.1% |  |
 | 41 | 0% | 0% |  |
+
+### Chrëschtlech-Sozial Vollekspartei
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-csv.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 23 | 0% | 100% | Last Result |
+| 24 | 0% | 100% |  |
+| 25 | 0% | 100% |  |
+| 26 | 0% | 100% |  |
+| 27 | 0.5% | 100% |  |
+| 28 | 14% | 99.5% |  |
+| 29 | 57% | 86% | Median |
+| 30 | 27% | 29% |  |
+| 31 | 2% | 2% | Majority |
+| 32 | 0% | 0% |  |
 
 ### Lëtzebuerger Sozialistesch Aarbechterpartei – Demokratesch Partei – déi gréng
 
