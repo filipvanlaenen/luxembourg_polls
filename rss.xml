@@ -8,7 +8,7 @@
     <title>All Registered Polls for the D’Chamber</title>
     <link>https://filipvanlaenen.github.io/luxembourg_polls</link>
     <description>All Registered Polls for the D’Chamber</description>
-    <pubDate>Thu, 20 Sep 2018 20:30:38 +0200</pubDate>
+    <pubDate>Thu, 20 Sep 2018 21:49:39 +0200</pubDate>
     <item>
       <title>Opinion Poll by TNS for Luxemburger Wort and RTL, 1 December 2017–31 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/luxembourg_polls/2018-05-31-TNS.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2018-05-31-TNS.png"
         length="168661"
         type="image/png"/>
-      <pubDate>Thu, 20 Sep 2018 20:18:36 +0200</pubDate>
-      <dc:date>2018-09-20T20:18:36.407768+02:00</dc:date>
+      <pubDate>Thu, 20 Sep 2018 21:49:39 +0200</pubDate>
+      <dc:date>2018-09-20T21:49:39.771572+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for Luxemburger Wort and RTL, 1 December 2017 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2017-12-01-TNS.png"
         length="244519"
         type="image/png"/>
-      <pubDate>Thu, 20 Sep 2018 20:14:55 +0200</pubDate>
-      <dc:date>2018-09-20T20:14:55.689545+02:00</dc:date>
+      <pubDate>Thu, 20 Sep 2018 21:39:27 +0200</pubDate>
+      <dc:date>2018-09-20T21:39:27.546446+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop for Tageblatt, 9–19 October 2017 – Voting Intentions</title>
@@ -36,9 +36,9 @@
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2017-10-19-Ifop.png"
         length="257605"
         type="image/png"/>
-      <pubDate>Thu, 20 Sep 2018 20:30:38 +0200</pubDate>
-      <dc:date>2018-09-20T20:30:38.676051+02:00</dc:date>
+      <pubDate>Thu, 20 Sep 2018 21:41:20 +0200</pubDate>
+      <dc:date>2018-09-20T21:41:20.385579+02:00</dc:date>
     </item>
-    <dc:date>2018-09-20T20:30:38.676051+02:00</dc:date>
+    <dc:date>2018-09-20T21:49:39.771572+02:00</dc:date>
   </channel>
 </rss>
