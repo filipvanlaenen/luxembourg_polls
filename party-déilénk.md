@@ -36,8 +36,8 @@ Last result: **2** seats (General Election of 20 October 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–2 |
-| [1 December 2017–31 May 2018](2018-05-31-TNS.html) | TNS <br> Luxemburger Wort and RTL | 2 | 2 | 2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [1 December 2017–31 May 2018](2018-05-31-TNS.html) | TNS <br> Luxemburger Wort and RTL | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [1 December 2017](2017-12-01-TNS.html) | TNS <br> Luxemburger Wort and RTL | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [9–19 October 2017](2017-10-19-Ifop.html) | Ifop <br> Tageblatt | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 
@@ -49,8 +49,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 5% | 100% |  |
-| 2 | 95% | 95% | Last Result, Median |
+| 1 | 7% | 100% |  |
+| 2 | 93% | 93% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 
