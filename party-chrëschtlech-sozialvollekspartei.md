@@ -45,10 +45,10 @@ Last result: **23** seats (General Election of 20 October 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29 | 28–30 | 28–30 | 28–30 | 27–31 |
-| [1 December 2017–31 May 2018](2018-05-31-TNS.html) | TNS <br> Luxemburger Wort and RTL | 29 | 28–30 | 28–30 | 28–30 | 27–31 |
-| [1 December 2017](2017-12-01-TNS.html) | TNS <br> Luxemburger Wort and RTL | 26 | 24–28 | 24–28 | 24–29 | 24–30 |
-| [9–19 October 2017](2017-10-19-Ifop.html) | Ifop <br> Tageblatt | 28 | 25–29 | 25–31 | 25–31 | 25–31 |
+| N/A | [Poll Average](average.html) | 29 | 29–30 | 28–30 | 28–30 | 27–31 |
+| [1 December 2017–31 May 2018](2018-05-31-TNS.html) | TNS <br> Luxemburger Wort and RTL | 29 | 29–30 | 28–30 | 28–30 | 27–31 |
+| [1 December 2017](2017-12-01-TNS.html) | TNS <br> Luxemburger Wort and RTL | 28 | 25–29 | 24–29 | 24–30 | 24–30 |
+| [9–19 October 2017](2017-10-19-Ifop.html) | Ifop <br> Tageblatt | 28 | 25–29 | 25–30 | 25–30 | 24–31 |
 
 ### Probability Mass Function
 
@@ -62,11 +62,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 0% | 100% |  |
 | 25 | 0% | 100% |  |
 | 26 | 0% | 100% |  |
-| 27 | 0.5% | 100% |  |
-| 28 | 14% | 99.5% |  |
-| 29 | 57% | 86% | Median |
-| 30 | 27% | 29% |  |
-| 31 | 2% | 2% | Majority |
+| 27 | 0.7% | 100% |  |
+| 28 | 8% | 99.3% |  |
+| 29 | 70% | 92% | Median |
+| 30 | 20% | 21% |  |
+| 31 | 1.0% | 1.0% | Majority |
 | 32 | 0% | 0% |  |
 
 
