@@ -8,13 +8,43 @@
     <title>All Registered Polls for the D’Chamber</title>
     <link>https://filipvanlaenen.github.io/luxembourg_polls</link>
     <description>All Registered Polls for the D’Chamber</description>
-    <pubDate>Fri, 21 Sep 2018 11:04:32 +0200</pubDate>
+    <pubDate>Sat, 06 Oct 2018 12:50:20 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by TNS for Luxemburger Wort and RTL, 26 September–1 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_polls/2018-10-01-TNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei: 29–35 seats&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei: 7–9 seats&lt;/li&gt;&lt;li&gt;Demokratesch Partei: 12–17 seats&lt;/li&gt;&lt;li&gt;déi gréng: 2–6 seats&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei: 0–1 seats&lt;/li&gt;&lt;li&gt;Déi Lénk: 0–1 seats&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2018-10-01-TNS-seats.png"
+        length="164042"
+        type="image/png"/>
+      <pubDate>Sat, 06 Oct 2018 12:50:20 +0200</pubDate>
+      <dc:date>2018-10-06T12:50:20.54323+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS for Luxemburger Wort and RTL, 26 September–1 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_polls/2018-10-01-TNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2018-10-01-TNS-coalitions-seats.png"
+        length="131681"
+        type="image/png"/>
+      <pubDate>Sat, 06 Oct 2018 12:50:20 +0200</pubDate>
+      <dc:date>2018-10-06T12:50:20.54323+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS for Luxemburger Wort and RTL, 26 September–1 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_polls/2018-10-01-TNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei: 42.1–49.3%&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei: 11.9–17.0%&lt;/li&gt;&lt;li&gt;Demokratesch Partei: 18.6–24.6%&lt;/li&gt;&lt;li&gt;déi gréng: 6.7–10.8%&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei: 1.9–4.3%&lt;/li&gt;&lt;li&gt;Déi Lénk: 1.9–4.3%&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg: 0.8–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2018-10-01-TNS.png"
+        length="216530"
+        type="image/png"/>
+      <pubDate>Sat, 06 Oct 2018 12:50:20 +0200</pubDate>
+      <dc:date>2018-10-06T12:50:20.54323+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS for Luxemburger Wort and RTL, 1 December 2017–31 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/luxembourg_polls/2018-05-31-TNS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei: 28–30 seats&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei: 7–9 seats&lt;/li&gt;&lt;li&gt;Demokratesch Partei: 10–11 seats&lt;/li&gt;&lt;li&gt;déi gréng: 6–8 seats&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei: 3–5 seats&lt;/li&gt;&lt;li&gt;Déi Lénk: 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2018-05-31-TNS-seats.png"
-        length="136959"
+        length="137969"
         type="image/png"/>
       <pubDate>Fri, 21 Sep 2018 11:04:32 +0200</pubDate>
       <dc:date>2018-09-21T11:04:32.54247+02:00</dc:date>
@@ -24,7 +54,7 @@
       <link>https://filipvanlaenen.github.io/luxembourg_polls/2018-05-31-TNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2018-05-31-TNS-coalitions-seats.png"
-        length="110977"
+        length="111884"
         type="image/png"/>
       <pubDate>Fri, 21 Sep 2018 11:04:32 +0200</pubDate>
       <dc:date>2018-09-21T11:04:32.54247+02:00</dc:date>
@@ -34,7 +64,7 @@
       <link>https://filipvanlaenen.github.io/luxembourg_polls/2018-05-31-TNS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei: 41.4–44.6%&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei: 13.9–16.2%&lt;/li&gt;&lt;li&gt;Demokratesch Partei: 15.8–18.3%&lt;/li&gt;&lt;li&gt;déi gréng: 11.0–13.1%&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei: 7.1–9.0%&lt;/li&gt;&lt;li&gt;Déi Lénk: 4.3–5.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2018-05-31-TNS.png"
-        length="168661"
+        length="170257"
         type="image/png"/>
       <pubDate>Fri, 21 Sep 2018 11:04:32 +0200</pubDate>
       <dc:date>2018-09-21T11:04:32.54247+02:00</dc:date>
@@ -44,7 +74,7 @@
       <link>https://filipvanlaenen.github.io/luxembourg_polls/2017-12-01-TNS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei: 24–30 seats&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei: 12–14 seats&lt;/li&gt;&lt;li&gt;Demokratesch Partei: 5–9 seats&lt;/li&gt;&lt;li&gt;déi gréng: 6–8 seats&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei: 3–5 seats&lt;/li&gt;&lt;li&gt;Déi Lénk: 2–4 seats&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg: 0–1 seats&lt;/li&gt;&lt;li&gt;Partei fir Integral Demokratie: 0 seats&lt;/li&gt;&lt;li&gt;Kommunistesch Partei Lëtzebuerg: 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2017-12-01-TNS-seats.png"
-        length="178561"
+        length="180267"
         type="image/png"/>
       <pubDate>Thu, 20 Sep 2018 22:48:09 +0200</pubDate>
       <dc:date>2018-09-20T22:48:09.253244+02:00</dc:date>
@@ -54,7 +84,7 @@
       <link>https://filipvanlaenen.github.io/luxembourg_polls/2017-12-01-TNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2017-12-01-TNS-coalitions-seats.png"
-        length="142881"
+        length="143922"
         type="image/png"/>
       <pubDate>Thu, 20 Sep 2018 22:48:09 +0200</pubDate>
       <dc:date>2018-09-20T22:48:09.253244+02:00</dc:date>
@@ -64,7 +94,7 @@
       <link>https://filipvanlaenen.github.io/luxembourg_polls/2017-12-01-TNS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei: 34.5–38.9%&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei: 18.8–22.5%&lt;/li&gt;&lt;li&gt;Demokratesch Partei: 8.7–11.5%&lt;/li&gt;&lt;li&gt;déi gréng: 9.3–12.2%&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei: 6.8–9.3%&lt;/li&gt;&lt;li&gt;Déi Lénk: 6.5–9.0%&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg: 2.3–3.9%&lt;/li&gt;&lt;li&gt;Partei fir Integral Demokratie: 0.7–1.7%&lt;/li&gt;&lt;li&gt;Kommunistesch Partei Lëtzebuerg: 1.6–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2017-12-01-TNS.png"
-        length="244519"
+        length="246927"
         type="image/png"/>
       <pubDate>Thu, 20 Sep 2018 22:48:09 +0200</pubDate>
       <dc:date>2018-09-20T22:48:09.253244+02:00</dc:date>
@@ -74,7 +104,7 @@
       <link>https://filipvanlaenen.github.io/luxembourg_polls/2017-10-19-Ifop.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei: 25–30 seats&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei: 7–11 seats&lt;/li&gt;&lt;li&gt;Demokratesch Partei: 7–11 seats&lt;/li&gt;&lt;li&gt;déi gréng: 6–9 seats&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei: 2–6 seats&lt;/li&gt;&lt;li&gt;Déi Lénk: 2–3 seats&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg: 0–2 seats&lt;/li&gt;&lt;li&gt;Partei fir Integral Demokratie: 0 seats&lt;/li&gt;&lt;li&gt;Kommunistesch Partei Lëtzebuerg: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2017-10-19-Ifop-seats.png"
-        length="194966"
+        length="196451"
         type="image/png"/>
       <pubDate>Fri, 21 Sep 2018 10:51:06 +0200</pubDate>
       <dc:date>2018-09-21T10:51:06.327721+02:00</dc:date>
@@ -84,7 +114,7 @@
       <link>https://filipvanlaenen.github.io/luxembourg_polls/2017-10-19-Ifop.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2017-10-19-Ifop-coalitions-seats.png"
-        length="136951"
+        length="137560"
         type="image/png"/>
       <pubDate>Fri, 21 Sep 2018 10:51:06 +0200</pubDate>
       <dc:date>2018-09-21T10:51:06.327721+02:00</dc:date>
@@ -94,11 +124,11 @@
       <link>https://filipvanlaenen.github.io/luxembourg_polls/2017-10-19-Ifop.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei: 35.8–42.4%&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei: 12.7–17.6%&lt;/li&gt;&lt;li&gt;Demokratesch Partei: 10.9–15.5%&lt;/li&gt;&lt;li&gt;déi gréng: 10.9–15.5%&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei: 6.3–10.0%&lt;/li&gt;&lt;li&gt;Déi Lénk: 4.6–7.9%&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg: 2.1–4.4%&lt;/li&gt;&lt;li&gt;Partei fir Integral Demokratie: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Kommunistesch Partei Lëtzebuerg: 0.5–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2017-10-19-Ifop.png"
-        length="257605"
+        length="259779"
         type="image/png"/>
       <pubDate>Fri, 21 Sep 2018 10:51:06 +0200</pubDate>
       <dc:date>2018-09-21T10:51:06.327721+02:00</dc:date>
     </item>
-    <dc:date>2018-09-21T11:04:32.54247+02:00</dc:date>
+    <dc:date>2018-10-06T12:50:20.54323+02:00</dc:date>
   </channel>
 </rss>
