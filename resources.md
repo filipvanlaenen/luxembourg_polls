@@ -35,6 +35,12 @@ The following websites provide similar information to this website:
 + [Latvian Polls](https://filipvanlaenen.github.io/latvian_polls/) and [Latvian EP Polls](https://filipvanlaenen.github.io/latvian_ep_polls/)
 + [Luxembourg EP Polls](https://filipvanlaenen.github.io/luxembourg_ep_polls/)
 + [Norwegian Polls](https://filipvanlaenen.github.io/norwegian_polls/)
++ [Portuguese Polls](https://filipvanlaenen.github.io/portuguese_polls/) and [Portuguese EP Polls](https://filipvanlaenen.github.io/portuguese_ep_polls/)
 + [Slovenian Polls](https://filipvanlaenen.github.io/slovenian_polls/) and [Slovenian EP Polls](https://filipvanlaenen.github.io/slovenian_ep_polls/)
 + [Swedish Polls](https://filipvanlaenen.github.io/swedish_polls/) and [Swedish EP Polls](https://filipvanlaenen.github.io/swedish_ep_polls/)
 + [Walloon Polls](https://filipvanlaenen.github.io/walloon_polls/)
+
+## Previous Elections
+
++ [14 October 2018](20181014/index.html)
+
