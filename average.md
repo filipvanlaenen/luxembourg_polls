@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | CSV | LSAP | DP | DG | ADR | DL | PPLU | KPL | PID |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 14 October 2018 | General Election | 28.3% <br> 21 | 17.6% <br> 10 | 16.9% <br> 12 | 15.1% <br> 9 | 8.3% <br> 4 | 5.5% <br> 2 | 6.4% <br> 2 | 1.3% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 28–32% <br> 19–22 | 14–17% <br> 8–9 | 15–18% <br> 10–13 | 14–18% <br> 8–10 | 9–12% <br> 7 | 4–7% <br> 2 | 4–6% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
-| [14–23 November 2019](2019-11-23-Kantar.html) | Kantar <br> Luxemburger Wort and RTL | 28–32% <br> 19–22 | 13–17% <br> 8–9 | 15–18% <br> 10–13 | 14–18% <br> 8–10 | 9–12% <br> 7 | 5–7% <br> 2 | 4–7% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 28–32% <br> 19–23 | 14–17% <br> 7–9 | 15–18% <br> 10–13 | 14–18% <br> 8–10 | 9–12% <br> 5–7 | 4–7% <br> 2 | 4–6% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| [14–23 November 2019](2019-11-23-Kantar.html) | Kantar <br> Luxemburger Wort and RTL | 28–32% <br> 19–23 | 13–17% <br> 7–9 | 15–18% <br> 10–13 | 14–18% <br> 8–10 | 9–12% <br> 5–7 | 5–7% <br> 2 | 4–7% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | 14 October 2018 | General Election | 28.3% <br> 21 | 17.6% <br> 10 | 16.9% <br> 12 | 15.1% <br> 9 | 8.3% <br> 4 | 5.5% <br> 2 | 6.4% <br> 2 | 1.3% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -165,13 +165,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#chrëschtlech-sozial-vollekspartei">Chrëschtlech-Sozial Vollekspartei</a> | 21 | 20 | 19–20 |19–20 | 19–22 | 19–22 |
-| <a href="#lëtzebuerger-sozialistesch-aarbechterpartei">Lëtzebuerger Sozialistesch Aarbechterpartei</a> | 10 | 9 | 8–9 |8–9 | 8–9 | 8–9 |
-| <a href="#demokratesch-partei">Demokratesch Partei</a> | 12 | 12 | 12–13 |12–13 | 10–13 | 10–13 |
-| <a href="#déi-gréng">déi gréng</a> | 9 | 8 | 8–10 |8–10 | 8–10 | 8–10 |
-| <a href="#alternativ-demokratesch-reformpartei">Alternativ Demokratesch Reformpartei</a> | 4 | 7 | 7 |7 | 7 | 5–7 |
-| <a href="#piratepartei-lëtzebuerg">Piratepartei Lëtzebuerg</a> | 2 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
-| <a href="#déi-lénk">déi Lénk</a> | 2 | 2 | 2 |2 | 2 | 2 |
+| <a href="#chrëschtlech-sozial-vollekspartei">Chrëschtlech-Sozial Vollekspartei</a> | 21 | 21 | 20–22 |19–22 | 19–23 | 18–23 |
+| <a href="#lëtzebuerger-sozialistesch-aarbechterpartei">Lëtzebuerger Sozialistesch Aarbechterpartei</a> | 10 | 9 | 8–9 |7–9 | 7–9 | 7–9 |
+| <a href="#demokratesch-partei">Demokratesch Partei</a> | 12 | 11 | 10–13 |10–13 | 10–13 | 9–13 |
+| <a href="#déi-gréng">déi gréng</a> | 9 | 10 | 8–10 |8–10 | 8–10 | 8–11 |
+| <a href="#alternativ-demokratesch-reformpartei">Alternativ Demokratesch Reformpartei</a> | 4 | 6 | 5–7 |5–7 | 5–7 | 4–7 |
+| <a href="#piratepartei-lëtzebuerg">Piratepartei Lëtzebuerg</a> | 2 | 2 | 1–2 |1–2 | 1–2 | 1–3 |
+| <a href="#déi-lénk">déi Lénk</a> | 2 | 2 | 2 |2 | 2 | 2–3 |
 | <a href="#kommunistesch-partei-lëtzebuerg">Kommunistesch Partei Lëtzebuerg</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#partei-fir-integral-demokratie">Partei fir Integral Demokratie</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
@@ -183,11 +183,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 43% | 100% |  |
-| 20 | 52% | 57% | Median |
-| 21 | 0.3% | 5% | Last Result |
-| 22 | 4% | 5% |  |
-| 23 | 0.1% | 0.2% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 0.6% | 99.9% |  |
+| 19 | 8% | 99.4% |  |
+| 20 | 26% | 91% |  |
+| 21 | 43% | 65% | Last Result, Median |
+| 22 | 18% | 22% |  |
+| 23 | 4% | 4% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
@@ -199,9 +201,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 42% | 100% |  |
-| 9 | 58% | 58% | Median |
-| 10 | 0% | 0% | Last Result |
+| 6 | 0.2% | 100% |  |
+| 7 | 9% | 99.8% |  |
+| 8 | 21% | 91% |  |
+| 9 | 70% | 70% | Median |
+| 10 | 0.3% | 0.4% | Last Result |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 ### Demokratesch Partei
 
@@ -211,11 +217,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 2% | 99.9% |  |
-| 11 | 2% | 97% |  |
-| 12 | 51% | 95% | Last Result, Median |
-| 13 | 45% | 45% |  |
+| 8 | 0.4% | 100% |  |
+| 9 | 2% | 99.6% |  |
+| 10 | 17% | 98% |  |
+| 11 | 36% | 80% | Median |
+| 12 | 31% | 44% | Last Result |
+| 13 | 13% | 13% |  |
 | 14 | 0% | 0% |  |
 
 ### déi gréng
@@ -226,10 +233,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 58% | 100% | Median |
-| 9 | 0.2% | 42% | Last Result |
-| 10 | 42% | 42% |  |
-| 11 | 0% | 0% |  |
+| 8 | 11% | 100% |  |
+| 9 | 21% | 89% | Last Result |
+| 10 | 68% | 68% | Median |
+| 11 | 0.6% | 0.7% |  |
+| 12 | 0.1% | 0.2% |  |
+| 13 | 0% | 0% |  |
 
 ### Alternativ Demokratesch Reformpartei
 
@@ -239,10 +248,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.3% | 100% | Last Result |
-| 5 | 0.2% | 99.7% |  |
-| 6 | 2% | 99.5% |  |
-| 7 | 98% | 98% | Median |
+| 4 | 0.8% | 100% | Last Result |
+| 5 | 35% | 99.2% |  |
+| 6 | 29% | 64% | Median |
+| 7 | 35% | 35% |  |
 | 8 | 0% | 0% |  |
 
 ### Piratepartei Lëtzebuerg
@@ -253,9 +262,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 43% | 100% |  |
-| 2 | 57% | 57% | Last Result, Median |
-| 3 | 0% | 0% |  |
+| 1 | 37% | 100% |  |
+| 2 | 61% | 63% | Last Result, Median |
+| 3 | 0.9% | 1.4% |  |
+| 4 | 0.4% | 0.4% |  |
+| 5 | 0% | 0% |  |
 
 ### déi Lénk
 
@@ -265,7 +276,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 100% | 100% | Last Result, Median |
+| 1 | 0.1% | 100% |  |
+| 2 | 98% | 99.9% | Last Result, Median |
+| 3 | 1.5% | 2% |  |
+| 4 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -276,10 +290,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Chrëschtlech-Sozial Vollekspartei – Demokratesch Partei | 33 | 32 | 100% | 32 | 32 | 32–33 | 32–33 |
-| Chrëschtlech-Sozial Vollekspartei – Lëtzebuerger Sozialistesch Aarbechterpartei | 31 | 29 | 4% | 27–29 | 27–29 | 27–31 | 27–31 |
-| Lëtzebuerger Sozialistesch Aarbechterpartei – Demokratesch Partei – déi gréng | 31 | 29 | 42% | 29–31 | 29–31 | 27–31 | 27–31 |
-| Chrëschtlech-Sozial Vollekspartei | 21 | 20 | 0% | 19–20 | 19–20 | 19–22 | 19–22 |
+| Chrëschtlech-Sozial Vollekspartei – Demokratesch Partei | 33 | 32 | 96% | 31–33 | 31–34 | 30–35 | 30–35 |
+| Chrëschtlech-Sozial Vollekspartei – Lëtzebuerger Sozialistesch Aarbechterpartei | 31 | 30 | 11% | 28–31 | 28–31 | 27–32 | 27–32 |
+| Lëtzebuerger Sozialistesch Aarbechterpartei – Demokratesch Partei – déi gréng | 31 | 30 | 22% | 28–31 | 28–31 | 27–32 | 27–32 |
+| Chrëschtlech-Sozial Vollekspartei | 21 | 21 | 0% | 20–22 | 19–22 | 19–23 | 18–23 |
 
 ### Chrëschtlech-Sozial Vollekspartei – Demokratesch Partei
 
@@ -287,11 +301,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.1% | 100% | Majority |
-| 32 | 96% | 99.9% | Median |
-| 33 | 3% | 3% | Last Result |
-| 34 | 0.3% | 0.4% |  |
-| 35 | 0% | 0% |  |
+| 29 | 0.4% | 100% |  |
+| 30 | 3% | 99.5% |  |
+| 31 | 15% | 96% | Majority |
+| 32 | 54% | 81% | Median |
+| 33 | 18% | 27% | Last Result |
+| 34 | 7% | 9% |  |
+| 35 | 2% | 3% |  |
+| 36 | 0.2% | 0.2% |  |
+| 37 | 0% | 0% |  |
 
 ### Chrëschtlech-Sozial Vollekspartei – Lëtzebuerger Sozialistesch Aarbechterpartei
 
@@ -299,12 +317,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 42% | 100% |  |
-| 28 | 2% | 58% |  |
-| 29 | 52% | 57% | Median |
-| 30 | 0.5% | 5% |  |
-| 31 | 4% | 4% | Last Result, Majority |
-| 32 | 0.1% | 0.2% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 4% | 99.9% |  |
+| 28 | 15% | 96% |  |
+| 29 | 29% | 81% |  |
+| 30 | 40% | 52% | Median |
+| 31 | 9% | 11% | Last Result, Majority |
+| 32 | 3% | 3% |  |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
 
@@ -314,12 +333,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 3% | 100% |  |
-| 28 | 2% | 97% |  |
-| 29 | 51% | 96% | Median |
-| 30 | 3% | 45% |  |
-| 31 | 42% | 42% | Last Result, Majority |
-| 32 | 0.1% | 0.1% |  |
+| 26 | 0.2% | 100% |  |
+| 27 | 3% | 99.8% |  |
+| 28 | 16% | 97% |  |
+| 29 | 31% | 81% |  |
+| 30 | 28% | 50% | Median |
+| 31 | 18% | 22% | Last Result, Majority |
+| 32 | 4% | 4% |  |
 | 33 | 0% | 0% |  |
 
 ### Chrëschtlech-Sozial Vollekspartei
@@ -328,11 +348,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 43% | 100% |  |
-| 20 | 52% | 57% | Median |
-| 21 | 0.3% | 5% | Last Result |
-| 22 | 4% | 5% |  |
-| 23 | 0.1% | 0.2% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 0.6% | 99.9% |  |
+| 19 | 8% | 99.4% |  |
+| 20 | 26% | 91% |  |
+| 21 | 43% | 65% | Last Result, Median |
+| 22 | 18% | 22% |  |
+| 23 | 4% | 4% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
@@ -340,6 +362,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 1,024
-+ **Total number of simulations done in the polls included in this average:** 1,024
-+ **Error estimate:** 2.01%
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 524,288
++ **Error estimate:** 0.90%
