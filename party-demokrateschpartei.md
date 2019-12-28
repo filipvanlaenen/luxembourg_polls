@@ -38,8 +38,8 @@ Last result: **12** seats (General Election of 14 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 12–13 | 12–13 | 10–13 | 10–13 |
-| [14–23 November 2019](2019-11-23-Kantar.html) | Kantar <br> Luxemburger Wort and RTL | 12 | 12–13 | 12–13 | 10–13 | 10–13 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–13 | 10–13 | 9–13 |
+| [14–23 November 2019](2019-11-23-Kantar.html) | Kantar <br> Luxemburger Wort and RTL | 11 | 10–13 | 10–13 | 10–13 | 9–13 |
 
 ### Probability Mass Function
 
@@ -49,11 +49,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 2% | 99.9% |  |
-| 11 | 2% | 97% |  |
-| 12 | 51% | 95% | Last Result, Median |
-| 13 | 45% | 45% |  |
+| 8 | 0.4% | 100% |  |
+| 9 | 2% | 99.6% |  |
+| 10 | 17% | 98% |  |
+| 11 | 36% | 80% | Median |
+| 12 | 31% | 44% | Last Result |
+| 13 | 13% | 13% |  |
 | 14 | 0% | 0% |  |
 
 
