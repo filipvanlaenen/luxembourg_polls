@@ -8,7 +8,27 @@
     <title>All Registered Polls for the D’Chamber</title>
     <link>https://filipvanlaenen.github.io/luxembourg_polls</link>
     <description>All Registered Polls for the D’Chamber</description>
-    <pubDate>Sat, 28 Dec 2019 15:57:50 +0100</pubDate>
+    <pubDate>Tue, 31 Dec 2019 14:25:32 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_polls/2019-11-23-Kantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei: 19–23 seats&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei: 7–9 seats&lt;/li&gt;&lt;li&gt;Demokratesch Partei: 10–13 seats&lt;/li&gt;&lt;li&gt;déi gréng: 8–10 seats&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei: 5–7 seats&lt;/li&gt;&lt;li&gt;déi Lénk: 2 seats&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg: 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2019-11-23-Kantar-seats.png"
+        length="174709"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2019 14:25:32 +0100</pubDate>
+      <dc:date>2019-12-31T14:25:32.525762+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_polls/2019-11-23-Kantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2019-11-23-Kantar-coalitions-seats.png"
+        length="134397"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2019 14:25:32 +0100</pubDate>
+      <dc:date>2019-12-31T14:25:32.525762+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/luxembourg_polls/2019-11-23-Kantar.html</link>
@@ -16,9 +36,9 @@
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2019-11-23-Kantar.png"
         length="222196"
         type="image/png"/>
-      <pubDate>Sat, 28 Dec 2019 15:57:50 +0100</pubDate>
-      <dc:date>2019-12-28T15:57:50.944961+01:00</dc:date>
+      <pubDate>Tue, 31 Dec 2019 14:25:32 +0100</pubDate>
+      <dc:date>2019-12-31T14:25:32.525762+01:00</dc:date>
     </item>
-    <dc:date>2019-12-28T15:57:50.944961+01:00</dc:date>
+    <dc:date>2019-12-31T14:25:32.525762+01:00</dc:date>
   </channel>
 </rss>
