@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/luxembourg_polls</id>
+  <title>All Registered Polls for the D’Chamber</title>
+  <updated>2019-12-31T14:25:32.525762+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Chrëschtlech-Sozial Vollekspartei: 28.1–32.3%, 19–23 seats</li><li>Lëtzebuerger Sozialistesch Aarbechterpartei: 13.4–16.7%, 7–9 seats</li><li>Demokratesch Partei: 15.0–18.4%, 10–13 seats</li><li>déi gréng: 14.3–17.7%, 8–10 seats</li><li>Alternativ Demokratesch Reformpartei: 9.1–11.9%, 5–7 seats</li><li>déi Lénk: 4.5–6.6%, 2 seats</li><li>Piratepartei Lëtzebuerg: 4.4–6.5%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/luxembourg_polls/2019-11-23-Kantar.html</id>
+    <link href="https://filipvanlaenen.github.io/luxembourg_polls/2019-11-23-Kantar.html"/>
+    <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019</title>
+    <updated>2019-12-31T14:25:32.525762+01:00</updated>
+    <dc:date>2019-12-31T14:25:32.525762+01:00</dc:date>
+  </entry>
+  <dc:date>2019-12-31T14:25:32.525762+01:00</dc:date>
+</feed>
