@@ -8,7 +8,17 @@
     <title>All Registered Polls for the D’Chamber</title>
     <link>https://filipvanlaenen.github.io/luxembourg_polls</link>
     <description>All Registered Polls for the D’Chamber</description>
-    <pubDate>Tue, 31 Dec 2019 14:25:32 +0100</pubDate>
+    <pubDate>Tue, 07 Jul 2020 18:04:19 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 8–24 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_polls/2020-06-24-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei: 25.5–29.6%&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei: 14.8–18.2%&lt;/li&gt;&lt;li&gt;Demokratesch Partei: 18.8–22.5%&lt;/li&gt;&lt;li&gt;déi gréng: 11.9–15.1%&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei: 7.0–9.6%&lt;/li&gt;&lt;li&gt;déi Lénk: 6.2–8.6%&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg: 3.9–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_polls/2020-06-24-Kantar.png"
+        length="256408"
+        type="image/png"/>
+      <pubDate>Tue, 07 Jul 2020 18:04:19 +0200</pubDate>
+      <dc:date>2020-07-07T18:04:19.502475+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/luxembourg_polls/2019-11-23-Kantar.html#seats</link>
@@ -39,6 +49,6 @@
       <pubDate>Tue, 31 Dec 2019 14:25:32 +0100</pubDate>
       <dc:date>2019-12-31T14:25:32.525762+01:00</dc:date>
     </item>
-    <dc:date>2019-12-31T14:25:32.525762+01:00</dc:date>
+    <dc:date>2020-07-07T18:04:19.502475+02:00</dc:date>
   </channel>
 </rss>
