@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/luxembourg_polls</id>
   <title>All Registered Polls for the D’Chamber</title>
-  <updated>2019-12-31T14:25:32.525762+01:00</updated>
+  <updated>2020-07-09T17:10:37.771934+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Chrëschtlech-Sozial Vollekspartei: 25.5–29.6%, 17–21 seats</li><li>Lëtzebuerger Sozialistesch Aarbechterpartei: 14.8–18.2%, 9–12 seats</li><li>Demokratesch Partei: 18.8–22.5%, 13–16 seats</li><li>déi gréng: 11.9–15.1%, 8–9 seats</li><li>Alternativ Demokratesch Reformpartei: 7.0–9.6%, 4–5 seats</li><li>déi Lénk: 6.2–8.6%, 2–4 seats</li><li>Piratepartei Lëtzebuerg: 3.9–5.9%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/luxembourg_polls/2020-06-24-Kantar.html</id>
+    <link href="https://filipvanlaenen.github.io/luxembourg_polls/2020-06-24-Kantar.html"/>
+    <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 8–24 June 2020</title>
+    <updated>2020-07-09T17:10:37.771934+02:00</updated>
+    <dc:date>2020-07-09T17:10:37.771934+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Chrëschtlech-Sozial Vollekspartei: 28.1–32.3%, 19–23 seats</li><li>Lëtzebuerger Sozialistesch Aarbechterpartei: 13.4–16.7%, 7–9 seats</li><li>Demokratesch Partei: 15.0–18.4%, 10–13 seats</li><li>déi gréng: 14.3–17.7%, 8–10 seats</li><li>Alternativ Demokratesch Reformpartei: 9.1–11.9%, 5–7 seats</li><li>déi Lénk: 4.5–6.6%, 2 seats</li><li>Piratepartei Lëtzebuerg: 4.4–6.5%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/luxembourg_polls/2019-11-23-Kantar.html</id>
@@ -15,5 +23,5 @@
     <updated>2019-12-31T14:25:32.525762+01:00</updated>
     <dc:date>2019-12-31T14:25:32.525762+01:00</dc:date>
   </entry>
-  <dc:date>2019-12-31T14:25:32.525762+01:00</dc:date>
+  <dc:date>2020-07-09T17:10:37.771934+02:00</dc:date>
 </feed>
