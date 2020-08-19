@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>All Registered Polls for the D’Chamber</title>
+    <link>null</link>
+    <description>All Registered Polls for the D’Chamber</description>
+    <pubDate>Sat, 28 Dec 2019 11:06:40 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 8–24 June 2020 – Seating Plan Projection</title>
+      <link>null/2020-06-24-Kantar.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the D’Chamber<br/>31 seats needed for a majority<br/>Opinion poll by Kantar for Luxemburger Wort and RTL, 8–24 June 2020<br/>Details on null/2020-06-24-Kantar.html<br/><img src="null/2020-06-24-Kantar-seating-plan.png"/>]]></description>
+      <enclosure url="null/2020-06-24-Kantar-seating-plan.png" length="445703" type="image/png"/>
+      <pubDate>Thu, 9 Jul 2020 17:10:37 +0200</pubDate>
+      <dc:date>2020-07-09T17:10:37.771934+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 8–24 June 2020 – Seat Projections</title>
+      <link>null/2020-06-24-Kantar.html#seats</link>
+      <description><![CDATA[Seat projections for the D’Chamber<br/>31 seats needed for a majority<br/>Opinion poll by Kantar for Luxemburger Wort and RTL, 8–24 June 2020<br/>Details on null/2020-06-24-Kantar.html<br/><img src="null/2020-06-24-Kantar-seats.png"/>]]></description>
+      <enclosure url="null/2020-06-24-Kantar-seats.png" length="220280" type="image/png"/>
+      <pubDate>Thu, 9 Jul 2020 17:10:37 +0200</pubDate>
+      <dc:date>2020-07-09T17:10:37.771934+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 8–24 June 2020 – Voting Intentions</title>
+      <link>null/2020-06-24-Kantar.html</link>
+      <description><![CDATA[Voting intentions for the D’Chamber<br/>Opinion poll by Kantar for Luxemburger Wort and RTL, 8–24 June 2020<br/>Details on null/2020-06-24-Kantar.html<br/><img src="null/2020-06-24-Kantar.png"/>]]></description>
+      <enclosure url="null/2020-06-24-Kantar.png" length="256408" type="image/png"/>
+      <pubDate>Thu, 9 Jul 2020 17:10:37 +0200</pubDate>
+      <dc:date>2020-07-09T17:10:37.771934+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019 – Seating Plan Projection</title>
+      <link>null/2019-11-23-Kantar.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the D’Chamber<br/>31 seats needed for a majority<br/>Opinion poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019<br/>Details on null/2019-11-23-Kantar.html<br/><img src="null/2019-11-23-Kantar-seating-plan.png"/>]]></description>
+      <enclosure url="null/2019-11-23-Kantar-seating-plan.png" length="380457" type="image/png"/>
+      <pubDate>Tue, 31 Dec 2019 14:25:32 +0100</pubDate>
+      <dc:date>2019-12-31T14:25:32.525762+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019 – Seat Projections</title>
+      <link>null/2019-11-23-Kantar.html#seats</link>
+      <description><![CDATA[Seat projections for the D’Chamber<br/>31 seats needed for a majority<br/>Opinion poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019<br/>Details on null/2019-11-23-Kantar.html<br/><img src="null/2019-11-23-Kantar-seats.png"/>]]></description>
+      <enclosure url="null/2019-11-23-Kantar-seats.png" length="174709" type="image/png"/>
+      <pubDate>Tue, 31 Dec 2019 14:25:32 +0100</pubDate>
+      <dc:date>2019-12-31T14:25:32.525762+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019 – Voting Intentions</title>
+      <link>null/2019-11-23-Kantar.html</link>
+      <description><![CDATA[Voting intentions for the D’Chamber<br/>Opinion poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019<br/>Details on null/2019-11-23-Kantar.html<br/><img src="null/2019-11-23-Kantar.png"/>]]></description>
+      <enclosure url="null/2019-11-23-Kantar.png" length="222196" type="image/png"/>
+      <pubDate>Tue, 31 Dec 2019 14:25:32 +0100</pubDate>
+      <dc:date>2019-12-31T14:25:32.525762+01:00</dc:date>
+    </item>
+  </channel>
+</rss>
