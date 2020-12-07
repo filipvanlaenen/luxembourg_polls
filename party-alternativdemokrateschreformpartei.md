@@ -10,7 +10,8 @@ Last result: **8.3%** (General Election of 14 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 7.5–9.1% | 7.2–9.4% | 7.0–9.6% | 6.7–10.0% |
+| N/A | [Poll Average](average.html) | 9.6% | 8.8–10.5% | 8.5–10.8% | 8.3–11.0% | 7.9–11.5% |
+| [10–24 November 2020](2020-11-24-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 9.6% | 8.7–10.5% | 8.5–10.8% | 8.3–11.0% | 7.9–11.5% |
 | [8–24 June 2020](2020-06-24-Kantar.html) | Kantar <br> Luxemburger Wort and RTL | 8.2% | 7.5–9.1% | 7.2–9.4% | 7.0–9.6% | 6.7–10.0% |
 | [14–23 November 2019](2019-11-23-Kantar.html) | Kantar <br> Luxemburger Wort and RTL | 10.4% | 9.5–11.4% | 9.3–11.6% | 9.1–11.9% | 8.7–12.3% |
 
@@ -20,14 +21,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 13% | 99.8% |  |
-| 7.5–8.5% | 54% | 87% | Last Result, Median |
-| 8.5–9.5% | 30% | 33% |  |
-| 9.5–10.5% | 3% | 3% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.1% | 100% |  |
+| 7.5–8.5% | 5% | 99.9% | Last Result |
+| 8.5–9.5% | 42% | 95% |  |
+| 9.5–10.5% | 44% | 53% | Median |
+| 10.5–11.5% | 9% | 9% |  |
+| 11.5–12.5% | 0.3% | 0.3% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -38,7 +38,8 @@ Last result: **4** seats (General Election of 14 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [10–24 November 2020](2020-11-24-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [8–24 June 2020](2020-06-24-Kantar.html) | Kantar <br> Luxemburger Wort and RTL | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [14–23 November 2019](2019-11-23-Kantar.html) | Kantar <br> Luxemburger Wort and RTL | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 
@@ -50,12 +51,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.1% | 100% |  |
-| 3 | 1.4% | 99.9% |  |
-| 4 | 48% | 98% | Last Result |
-| 5 | 49% | 50% | Median |
-| 6 | 1.4% | 2% |  |
-| 7 | 0.2% | 0.2% |  |
+| 4 | 0.7% | 100% | Last Result |
+| 5 | 71% | 99.2% | Median |
+| 6 | 12% | 29% |  |
+| 7 | 17% | 17% |  |
 | 8 | 0% | 0% |  |
 
 
